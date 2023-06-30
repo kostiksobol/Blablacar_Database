@@ -1,0 +1,22 @@
+INSERT INTO Car(car_id, car_number, model, capacity, technical_condition)
+VALUES
+    (1,"K183MA","RAM Trucks",9,"Good"), 
+    (2,"X717AD","Mahindra",4,"Satisfactory"), 
+    (3,"D676HT","Renault",5,"Good"), 
+    (4,"D065DS","Citroen",9,"Satisfactory"), 
+    (5,"C786FG","Ferrari",6,"New"), 
+    (6,"0552FD","Daihatsu",6,"Excellent"), 
+    (7,"D73310","Honda",8,"Excellent"), 
+    (8,"7184RE","FAW",7,"Applicable"), 
+    (9,"Y9018F","Daihatsu",7,"Satisfactory"), 
+    (10,"F961SA","Cheyrolet",2,"New"), 
+    (11,"H255NY","MINI",7,"Good"), 
+    (12,"F204XW","Dongfeng Motor",10,"Satisfactory"), (13,"S748BU","Citroen",6,"Satisfactory"), 
+    (13,"S748BU","Citroen",6,"Satisfactory"), 
+    (14,"L541CW","GMC",8,"Satisfactory"), 
+    (15,"K735CC","Skoda",5,"Excellent"), 
+    (16,"F3420U","Isuzu",8,"Satisfactory"), 
+    (17,"F762MM","Acura",4,"New"), 
+    (18,"W927DF","Cadillac",8,"Applicable"), 
+    (19,"S165GF","Dodge",2,"Good"), 
+    (20,"5015GT","Daihatsu",8,"Satisfactory");

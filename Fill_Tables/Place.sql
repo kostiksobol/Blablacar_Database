@@ -1,0 +1,22 @@
+INSERT INTO Place (place_id, specification, address_id)
+VALUES
+    (1,"vestibulum massa rutrum",21),
+    (2,"enim. Etiam gravida",1),
+    (3,"tincidunt aliquam arca. Aliquam ultrices iaculis",25),
+    (4,"massa. Vestibulum accumsan neque et",30),
+    (5,"Duis ac arcu. Nunc",2),
+    (6,"Nulla aliquet. Proin velit. Sed malesuada augue ut",28),
+    (7,"et malesuada fames ac turpis egestas.",22),
+    (8,"ac mattis velit justo nec ante. Maecenas mi felis, adipiscing fringilla,",3),
+    (9,"lacus vestibulum lorem, sit amet ultricies sem magna nec quam. Curabitur vel lectus.",21), 
+    (10,"interdum. Nunc sollicitudin commodo ipsum. Suspendisse non",14),
+    (11,"eu dolor egestas rhoncus. Proin nisi sem, consequat nec,",26),
+    (12,"Maecenas mi felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum.",7), 
+    (13,"vel sapien imperdiet",18),
+    (14,"aptent taciti sociosqu ad litora torquent per conubia",22),
+    (15,"quis diam luctus lobortis. Class aptent taciti",5),
+    (16,"sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam vestibulum",29),
+    (17,"eleifend, nunc risus varius orci, in consequat enim diam",9),
+    (18,"Donec est mauris, rhoncus id, mollis nec, cursus a, enim. Suspendisse aliquet,",7),
+    (19,"Nullam ut nisi",17),
+    (20,"at lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id,",11);
